@@ -1,0 +1,23 @@
+/* universal css */
+html {
+    font-size: 16px;
+    font-family: Helvetica, sans-serif;
+    
+};
+body {
+    
+};
+
+.page-title {
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: blue;
+    text-justify: center;
+};
+
+.page.caption {
+    color: aquamarine;
+    font-size: 16px;
+
+};
