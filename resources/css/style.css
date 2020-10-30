@@ -17,8 +17,12 @@ body {
     color: aquamarine;
     font-size: 16px;
 }
-.info {
+.info, .footnote {
     font-family: verdana;
     color: gray;
     font-size: 16px;
+}
+
+.footnote {
+    text-align: end;
 }
