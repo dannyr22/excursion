@@ -1,23 +1,19 @@
 /* universal css */
-html {
-    font-size: 16px;
-    font-family: Helvetica, sans-serif;
-    
-};
 body {
-    
-};
+    background-color: black;
+    background-size: cover;
+    text-align: center;
+}
 
-.page-title {
+.page--title {
     font-family: verdana;
     font-weight: normal;
     font-size: 50px;
-    color: blue;
+    color: white;
     text-justify: center;
 };
 
-.page.caption {
-    color: aquamarine;
-    font-size: 16px;
-
+.page--caption {
+    color: white;
+    font-size: 40px;
 };
